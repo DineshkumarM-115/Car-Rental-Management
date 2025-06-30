@@ -1,0 +1,157 @@
+.zero{
+    background-color: rgb(220, 227, 231);
+    display:flex;
+    justify-content: space-between;
+    padding: 1%;
+}
+
+.one{
+    height: 90px;
+    justify-content:left;
+    display: flex;
+    
+}
+.two{
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+}
+.three{
+    justify-content: right;
+}
+
+.w{
+    display: flex;
+    justify-content:space-around;
+    background-color:rgb(152, 174, 175);
+  
+
+}
+
+.v{
+        width: 500px;
+        box-shadow: 20px;
+        padding-left: 40px;
+        margin:0px 30px 0px 0px;
+}
+.body_of_ser_about{
+    background-color: rgb(233, 192, 168);
+}
+.content{
+    display: flex;
+    justify-content: center;
+    gap: 120px;
+    
+}
+.box{
+    border: 2px solid black;
+    text-align: center;
+    width: 250px;
+    height: 150px;
+    
+}
+
+  .about-section {
+ 
+      padding: 80px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+
+    .about-section h1 {
+      font-size: 36px;
+      font-weight: bold;
+      margin-bottom: 20px;
+    }
+
+    .about-section p {
+      font-size: 16px;
+      color: #333;
+      line-height: 1.8;
+      margin-bottom: 15px;
+    }
+    .project_about{
+        text-align: center;
+    }
+    .project_boxs{
+        display: flex;
+      justify-content: center;
+     gap: 120px;
+    }
+    .boxs{
+       border: 1px solid black;
+     
+       width: 350px;
+       height: 150px;
+    }
+  .testimonials{
+    text-align: center;
+    background-color: cadetblue;
+  }
+  .testimonials_text{
+    text-align: center;
+   padding-bottom: 10px;
+  }
+  .last_name{
+    text-align: center;
+    
+  }
+ 
+
+.contact-section {
+  background-color: #ffffff;
+  padding: 20px;
+  text-align: center;
+}
+
+.contact-section h2 {
+  margin-top: 0;
+  font-size: 24px;
+  color: #333;
+}
+
+.contact-details {
+  margin: 15px 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+}
+
+.contact-details a {
+  text-decoration: none;
+  color: #333;
+  font-size: 16px;
+}
+
+.contact-details a i {
+  margin-right: 8px;
+}
+
+.social-icons a {
+  color: #333;
+  font-size: 20px;
+  margin: 0 8px;
+  transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+  color: #007bff;
+}
+
+.contact-section .copyright {
+  margin-top: 15px;
+  font-size: 14px;
+  color: #777;
+}
+.boxs{
+    text-align: center;
+    padding-top: 50px;
+}
+.style_button{
+    size: 100px;
+    background-color: #007bff;
+    width: 100px;
+    height: 25px;
+}
